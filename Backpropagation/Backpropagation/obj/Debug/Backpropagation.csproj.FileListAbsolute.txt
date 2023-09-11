@@ -1,0 +1,15 @@
+C:\Users\Aaliyah\Documents\VS Projects\Backpropagation\Backpropagation\bin\Debug\Backpropagation.exe.config
+C:\Users\Aaliyah\Documents\VS Projects\Backpropagation\Backpropagation\bin\Debug\Backpropagation.exe
+C:\Users\Aaliyah\Documents\VS Projects\Backpropagation\Backpropagation\bin\Debug\Backpropagation.pdb
+C:\Users\Aaliyah\Documents\VS Projects\Backpropagation\Backpropagation\bin\Debug\DatabaseConnections.dll
+C:\Users\Aaliyah\Documents\VS Projects\Backpropagation\Backpropagation\bin\Debug\System.Data.OleDb.dll
+C:\Users\Aaliyah\Documents\VS Projects\Backpropagation\Backpropagation\bin\Debug\System.Data.OleDb.xml
+C:\Users\Aaliyah\Documents\VS Projects\Backpropagation\Backpropagation\obj\Debug\Backpropagation.csproj.AssemblyReference.cache
+C:\Users\Aaliyah\Documents\VS Projects\Backpropagation\Backpropagation\obj\Debug\Backpropagation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aaliyah\Documents\VS Projects\Backpropagation\Backpropagation\obj\Debug\Backpropagation.Form1.resources
+C:\Users\Aaliyah\Documents\VS Projects\Backpropagation\Backpropagation\obj\Debug\Backpropagation.Properties.Resources.resources
+C:\Users\Aaliyah\Documents\VS Projects\Backpropagation\Backpropagation\obj\Debug\Backpropagation.csproj.GenerateResource.cache
+C:\Users\Aaliyah\Documents\VS Projects\Backpropagation\Backpropagation\obj\Debug\Backpropagation.csproj.CoreCompileInputs.cache
+C:\Users\Aaliyah\Documents\VS Projects\Backpropagation\Backpropagation\obj\Debug\Backpropagation.csproj.CopyComplete
+C:\Users\Aaliyah\Documents\VS Projects\Backpropagation\Backpropagation\obj\Debug\Backpropagation.exe
+C:\Users\Aaliyah\Documents\VS Projects\Backpropagation\Backpropagation\obj\Debug\Backpropagation.pdb
